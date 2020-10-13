@@ -1,9 +1,3 @@
-CSC791: Natural Language Processing
-P1-Final Assignment
-Devi Krishnan (dhkrishn)
-
-==========================================================================================
-
 There are the following files in the directory:
 1. Models: Baselines - tfidf.py, word2vec.py; Proposed model - bert.py
 2. Output files: testing_output_tfidf.csv, testing_output_word2vec.csv, testing_output_bert.csv
